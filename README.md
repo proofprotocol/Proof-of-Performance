@@ -174,7 +174,7 @@ Industry benchmarks (MLPerf, HELM, and similar frameworks) measure performance u
 
 ### 5.1 Standard vs. Certification
 
-This specification is published under CC BY 4.0. Any party may implement, reference, or build upon it without restriction, provided attribution is given to Craig Ellrod / Nebulonium, Inc. / HACKERverse.
+This specification is published under CC BY 4.0. Any party may implement, reference, or build upon it without restriction, provided attribution is given to Craig Ellrod / Nebulonium, Inc..
 
 Certification against this standard — the right to carry the ProofStamp™ mark — is a separate function retained by HACKERverse® as the independent test lab. The standard is open. The stamp is not.
 
